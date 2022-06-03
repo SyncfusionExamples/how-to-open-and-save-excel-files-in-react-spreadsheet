@@ -8,7 +8,7 @@ Open and Save: https://ej2.syncfusion.com/react/documentation/spreadsheet/open-s
 
 Editing: https://ej2.syncfusion.com/react/documentation/spreadsheet/editing/
 
-Online examples: 
+Online examples: https://ej2.syncfusion.com/react/demos/#/bootstrap5/spreadsheet/default
 
 ## Project prerequisites
 
